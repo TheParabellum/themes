@@ -1,0 +1,30 @@
+/**
+ * @name 312
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/848b4067-23d8-4d13-be9a-f44f7a6e81ee/d85vyt4-14ba2d62-87ca-4c25-bb95-1b550054d10e.jpg');
+  --accent-hue: 275;
+  --accent-saturation: 71%;
+  --accent-brightness: 51%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.24;
+  --gradient-saturation: 50%;
+  --gradient-deg: 167deg;
+  --customFont: Segoe UI;
+}
+
+/* Any custom CSS below here */
+
+
